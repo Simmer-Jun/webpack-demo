@@ -28,7 +28,7 @@ webpack 有两种使用方法，一种是通过命令行的方式，一种是通
 来看一个常规的webpack配置文件:
 ```js
 var config = {
-    entry: './src/js/index.js', // 入口文件
+    entry: './src/js/main.js', // 入口文件
     output: { 
         path: './dist/',
         filename: "[name]" + ".js"

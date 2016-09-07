@@ -8,7 +8,7 @@ This is a series of demo about webpack.
 
 ## demo
 
- * demo1:[基础打包](/Simmer-Jun/IFE-2016/blob/master/demo1) know abou how  webpack boundle module
-
+ * demo1:[基础打包](./demo1/) know about how  webpack boundle module.
+ * demo2:[webpack-loader](./demo2/) know about normal webpack loader.
 
 LICENSE: MIT
